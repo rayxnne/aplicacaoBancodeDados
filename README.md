@@ -1,4 +1,5 @@
 Aplicação de Banco de Dados
+
 Repositório para guardar as consultas realizadas com SQL no curso de Aplicação de Banco de Dados da FAT por meio do QualificaSP.
 
 Durante o curso foram abordados assuntos como fundamentos de banco de dados (relacionais e não relacionais), MySQL e SQL Server com foco em criação de tabelas, comandos DML/DQL(manipulação e consulta de dados), JOINs e transações e Power BI para visualização de dados e construção de dashboards interativos.
